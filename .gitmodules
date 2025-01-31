@@ -1,0 +1,15 @@
+[submodule "sre-infrastructure"]
+	path = sre-infrastructure
+	url = https://github.com/mr26/sre-infrastructure.git
+[submodule "sre-logging-setup"]
+	path = sre-logging-setup
+	url = https://github.com/mr26/sre-logging-setup.git
+[submodule "sre-monitoring-agent"]
+	path = sre-monitoring-agent
+	url = https://github.com/mr26/sre-monitoring-agent.git
+[submodule "sre-api-service"]
+	path = sre-api-service
+	url = https://github.com/mr26/sre-api-service.git
+[submodule "sre-chaos-injector"]
+	path = sre-chaos-injector
+	url = https://github.com/mr26/sre-chaos-injector.git
